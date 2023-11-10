@@ -1,0 +1,11 @@
+CTF LLD From UCTF-B
+
+Hint 1: Hey there, I've created the flag for you, but my younger brother turned that flag file into a RAR archive. He left this as a clue: 261dc1c0fb9cb6c53150e58672b100eb36b95d24badac50b6a5599bbcb51b967
+
+Hint 2: Some folks enjoy visiting Google, but they tend to overlook that there's a four-digit password involved.
+
+Attachment : flag.rar
+
+level : easy
+
+C : Unkn0wn2603
